@@ -1,8 +1,10 @@
 #lang scribble/manual
-@require[scribble/eval (for-label racket/base racket/contract)]
+@require[left-pad scribble/eval (for-label racket/base racket/contract)]
 
 @title[#:tag "top"]{left-pad}
 @author[@hyperlink["https://github.com/bennn"]{Ben Greenman}]
+
+@hyperlink["https://www.npmjs.com/package/left-pad"]{String left pad}
 
 @defmodule[left-pad]
 
@@ -52,3 +54,6 @@
 
   The pre- and post-conditions are enforced by a badass dependent contract.
 }
+
+@include-section{typed-left-pad.scrbl}
+
