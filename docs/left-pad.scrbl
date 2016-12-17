@@ -1,5 +1,5 @@
 #lang scribble/manual
-@require[left-pad scribble/eval (for-label racket/base racket/contract)]
+@require[left-pad scribble/examples (for-label racket/base racket/contract)]
 
 @title[#:tag "top"]{left-pad}
 @author[@hyperlink["https://github.com/bennn"]{Ben Greenman}]
