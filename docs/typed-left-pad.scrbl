@@ -1,6 +1,6 @@
 #lang scribble/manual
 @require[
-  mutt
+  left-pad
   (for-label racket/base racket/contract)
 ]
 
