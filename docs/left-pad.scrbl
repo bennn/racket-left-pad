@@ -32,7 +32,7 @@
   The preconditions of @racket[left-pad] are:
   @itemlist[
     @item{
-      The @racket[display]-mode representation of @racket[value] has at least @racket[pad-width] characters.
+      The @racket[display]-mode representation of @racket[value] has at most @racket[pad-width] characters.
     }
     @item{
       The @racket[display]-mode representation of @racket[pad-value] has exactly 1 character.
