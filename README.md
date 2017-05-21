@@ -1,7 +1,7 @@
 left-pad
 ===
-[![Build Status](https://travis-ci.org/bennn/left-pad.svg)](https://travis-ci.org/bennn/left-pad)
-[![Coverage Status](https://coveralls.io/repos/bennn/left-pad/badge.svg?branch=master&service=github)](https://coveralls.io/github/bennn/left-pad?branch=master)
+[![Build Status](https://travis-ci.org/bennn/racket-left-pad.svg)](https://travis-ci.org/bennn/racket-left-pad)
+[![Coverage Status](https://coveralls.io/repos/bennn/racket-left-pad/badge.svg?branch=master&service=github)](https://coveralls.io/github/bennn/racket-left-pad?branch=master)
 [![Scribble](https://img.shields.io/badge/Docs-Scribble-blue.svg)](http://docs.racket-lang.org/left-pad/index.html)
 
 [String left pad](https://www.npmjs.com/package/left-pad)
